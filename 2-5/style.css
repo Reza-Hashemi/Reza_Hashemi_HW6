@@ -1,0 +1,60 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#section1 {
+  background-color: rgba(16, 16, 131, 0.952);
+  height: 937px;
+  width: 100%;
+}
+#section2 {
+  background-color: rgba(16, 131, 16, 0.952);
+  height: 937px;
+  width: 100%;
+}
+#section3 {
+  background-color: rgba(172, 70, 70, 0.952);
+  height: 937px;
+  width: 100%;
+}
+#section4 {
+  background-color: rgba(209, 102, 15, 0.952);
+  height: 937px;
+  width: 100%;
+}
+#section5 {
+    background-color:rgb(136, 71, 136);
+    height: 937px;
+    width: 100%;
+  }
+#book{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 20px;
+    top: 50%;
+}
+.rad{
+   margin-bottom: 10px;
+   border-radius: 50%;
+   width: 10px;
+   height: 10px;
+   cursor: pointer;
+}
+#sec1{
+    background-color: rgba(16, 16, 131, 0.952);
+}
+#sec2{
+    background-color: rgba(16, 131, 16, 0.952);
+}
+#sec3{
+    background-color: rgba(172, 70, 70, 0.952);
+}
+#sec4{
+    background-color: rgba(209, 102, 15, 0.952);
+}
+#sec5{
+    background-color:rgb(136, 71, 136);
+}

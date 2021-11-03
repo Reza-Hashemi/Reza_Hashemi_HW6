@@ -1,0 +1,20 @@
+#box{
+    text-align: center;
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#blue{
+    width: 300px;
+    height: 250px;
+    background-color: blue;
+
+}
+
+#red{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+}

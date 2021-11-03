@@ -1,0 +1,39 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 900px;  
+    
+    background-color: greenyellow;
+    border: 3px black solid;
+
+}
+#middle{
+    width: 650px;
+    
+    background-color: greenyellow;
+    border: solid black 3px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+#center{
+    width: 400px;
+    background-color: greenyellow;
+    border: solid black 3px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+#parent-buton{
+    font-size: 30px;
+}
+#child-buton{
+    font-size: 30px;
+}
